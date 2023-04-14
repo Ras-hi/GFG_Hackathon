@@ -1,5 +1,6 @@
 # GFG_Hackathon
-Solving for India Hackathon
+## GFG X Google Solving for India Hackathon
+
 
 # Team Name: Ctrl_C-Ctrl_V
 
