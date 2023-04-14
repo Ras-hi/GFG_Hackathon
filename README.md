@@ -43,6 +43,7 @@ Once the user uploads an image of the fish, we will be able to identify it using
 2. Fish Disease Detection Model:
 
 While this model hasn’t completed an error-free execution yet, the disease detection model aims to gauge whether or not a fish is sporting any disease and predicts its consequent effects on the breeding grounds and neighbor species. This disease detection model employs Python based machine learning modules such as:
+
 i. Numpy
 
 ii. Pandas
