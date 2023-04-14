@@ -29,11 +29,10 @@ ii. Enthusiasts, who would like to explore the domain itself and gather knowledg
 # Important Technical components of the Project:
 
 Our webpage has made use of the following techstack:
-1. HTML5 which has been used as the primary markup language to design the page and CSS3 which has subsequently been utilized to describe the presentation of the webpage.
 
-2. JavaScript, ExpressJS and NodeJS, which have been leveraged to script the website and employ server side rendering as well as for building the user interface. NodeJS has been specifically exploited for client side and server side development. EJS or Embedded JS has been used to create dynamic pages, as shown in the link for the website. 
+1. JavaScript, ExpressJS and NodeJS, which have been leveraged to script the website and employ server side rendering as well as for building the user interface. NodeJS has been specifically exploited for client side and server side development. EJS or Embedded JS has been used to create dynamic pages, as shown in the link for the website. 
 
-3. MongoDB Atlas has been used to deploy the database on the Google Cloud platform.
+2. MongoDB Atlas has been used to deploy the database on the Google Cloud platform.
 
 An aggregate of two machine learning models have been implemented in the project:
 1. Fish Species Detection Model:
@@ -45,12 +44,19 @@ Once the user uploads an image of the fish, we will be able to identify it using
 
 While this model hasn’t completed an error-free execution yet, the disease detection model aims to gauge whether or not a fish is sporting any disease and predicts its consequent effects on the breeding grounds and neighbor species. This disease detection model employs Python based machine learning modules such as:
 i. Numpy
+
 ii. Pandas
+
 iii. Scikit-image
+
 iv. OpenCV
+
 v. Procfile
+
 vi. Scikit-learn
+
 vii. Flask
+
 The KMeans algorithm, which is an unsupervised learning algorithm has been utilized for clustering the fish images into different categories based on their features. 
 
 An integration of all these modules is expected to help the product estimate as to whether the school of fishes are sporting any disease, any suggest prevention and control methods for the same.
